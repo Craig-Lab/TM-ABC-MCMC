@@ -1,0 +1,21 @@
+
+#TM-ABC-MCMC algorithm
+
+Overview
+Trajectory-matching ABC-MCMC for simulating heterogeneous dynamics in mechanistic models
+Requirements
+•	Julia ≥ 1.10
+•	Installation guide: https://julialang.org/install/
+Inputs
+•	Experimental or clinical data
+•	Mathematical model (ODE, DDE), parameters best fit values
+•	TM-ABC-MCMC parameters
+Outputs
+•	Accepted trajectories
+•	Parameters distributions
+•	Diagnostic plots of parameters
+•	Execution time
+License/Citation
+•	
+Supplementary questions
+For any questions regarding the code, please write to fatemeh.beigmohammadi@umontreal.ca
