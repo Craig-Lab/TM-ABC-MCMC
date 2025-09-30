@@ -29,9 +29,9 @@ Trajectory-matching ABC-MCMC for simulating heterogeneous dynamics in mechanisti
 
 •	Execution time
 
-**Citation**
-https://www.biorxiv.org/cgi/content/short/2025.09.26.678800v1
-•	
+**Citation** 
+
+• https://www.biorxiv.org/cgi/content/short/2025.09.26.678800v1
 
 **Supplementary questions**
 
